@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dinesh-dhayfule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-dhayfule" height="30" width="40" /></a>
 <a href="https://twitter.com/d_28_9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_28_9_" height="30" width="40" /></a>
-<a href="https://instagram.com/d_28_19_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_28_19_" height="30" width="40" /></a>
+<a href="https://instagram.com/d_28_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_28_19_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
