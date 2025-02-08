@@ -35,7 +35,8 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
 </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=dineshdhayfule&style=flat-round&color=red" alt=""/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=dineshdhayfule&style=flat-round&color=green" alt=""/>
 ---
 
 🔥 *Let's innovate and build something amazing together!* 🚀
