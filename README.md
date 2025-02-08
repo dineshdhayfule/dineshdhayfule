@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Dhayfule</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dineshdhayfule&style=flat-round&color=red" alt="Profile Views"/>
-</p>
-
 ---
 
 ### 🚀 About Me  
@@ -17,22 +13,14 @@
 
 ---
 
-### 🛠️ Tech Stack  
-
-**Languages & Tools:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
----
-
 ### 📊 GitHub Stats  
 
-<p align="center">
+<p align="center" style="padding: 20px;">
+  <br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdhayfule&theme=merko&layout=compact&hide_langs_below=1" /> 
+  <br><br>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dineshdhayfule&show_icons=true&theme=monokai&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdhayfule&theme=merko&layout=compact&hide_langs_below=1" />
+  <br>
 </p>
 
 ---
@@ -46,7 +34,7 @@
   <a href="https://twitter.com/d_28_9_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
   </a>
-  <a href="https://instagram.com/dinesh.dhayfule" target="_blank">
+  <a href="https://www.instagram.com/dinesh_1_9/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
 </p>
