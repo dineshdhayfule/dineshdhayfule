@@ -16,7 +16,7 @@
 ## 📊 GitHub Stats  
 
 <p align="left"  style="margin:20px;">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdhayfule&theme=merko&layout=compact&hide_langs_below=1" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshdhayfule&theme=merko&layout=compact" /> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dineshdhayfule&show_icons=true&theme=monokai&count_private=true" />
 </p>
 
